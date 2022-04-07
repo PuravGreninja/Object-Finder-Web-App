@@ -1,0 +1,25 @@
+body{
+    background-size:cover;
+    background-position:center;
+}
+.Heading{
+    width: 100%;
+    margin-top: 0px;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+#note{
+    color: black;
+    font-size: 15px;
+}
+#obj_name{
+    width: 150px;
+}
+canvas{
+    box-shadow: 5px 5px 5px cyan;
+    border: 2px solid white;
+    margin-top: 80px;
+}
+#status , #status_found{
+    font-size: 15px;
+}
